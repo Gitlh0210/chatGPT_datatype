@@ -24,7 +24,7 @@
     <ProjectGuid>{edd5847b-ec94-40fe-b6c5-ac645de5276c}</ProjectGuid>
     <RootNamespace>chatGPTdatatype</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>VariableAndDatatype</ProjectName>
+    <ProjectName>1.1VariableAndDatatype</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
